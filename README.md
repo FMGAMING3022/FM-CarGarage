@@ -99,7 +99,7 @@ ensure FM-CarGarage
 * `qb-core`
 * `ox_lib`
 * `LegacyFuel`
-* `wasabi_bridge`
+* `wasabi_uikit`
 * `ox_target`
 * `qb-target`
 
