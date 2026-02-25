@@ -1,4 +1,8 @@
+# For Support
+**[Join Our Discord](https://discord.gg/Mu2hdZjjUg)**
 # 🚓 Car Garage – Multi-Framework Vehicle Garage
+
+---
 
 A **modern, configurable vehicle garage system** for FiveM with **multi-framework**, **multi-inventory**, and **multi-menu** support.
 Designed for **police, EMS, and job-based garages** with trunk items, liveries, extras, and grade restrictions.
