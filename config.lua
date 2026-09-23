@@ -5,7 +5,7 @@ Config = {
 
 Config.Framework = 'qb' -- options: 'qb', 'esx'
 Config.Target = 'custom' -- options: qb-target, ox_target, custom
-Config.Menu = 'wasabi_uikit'  -- options: qb-menu, ox_lib, wasabi_uikit
+Config.Menu = 'ox_lib'  -- options: qb-menu, ox_lib, wasabi_uikit
 Config.Progressbar = 'ox_lib'  -- options: qb_progressbar, ox_lib, wasabi_uikit
 
 Config.Color = '#27F5BE'

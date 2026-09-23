@@ -297,11 +297,8 @@ RegisterNetEvent('FM-CarGarage:spawnVehicle', function(data)
 
             if v.trunkItems then
                 Wait(1000)
-                TriggerServerEvent(
-                    'FM-CarGarage:addTrunkItems',
-                    GetVehicleNumberPlateText(vehicle),
-                    v.trunkItems
-                )
+                local netId = NetworkGetNetworkIdFromEntity(vehicle)
+                TriggerServerEvent('FM-CarGarage:addTrunkItems', data.department, v.model, netId)
             end
         end
     end
